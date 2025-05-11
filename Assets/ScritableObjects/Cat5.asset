@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0c835916fc835c49afa42e6d8583549, type: 3}
+  m_Name: Cat5
+  m_EditorClassIdentifier: 
+  id: 5
+  visualPrefab: {fileID: 5535609125018795380, guid: ce87cf3b8ad0b2447b0adfd9d059bddd, type: 3}
+  value: 100
+  fallSpeed: 7.5
+  spawnWeight: 0.05
